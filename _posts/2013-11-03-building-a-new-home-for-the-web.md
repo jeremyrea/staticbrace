@@ -4,7 +4,8 @@ title: "Finding a New Home for the Web"
 date: 2013-11-03 11:30
 comments: false
 categories:
-publised: true 
+published: true 
+
 ---
 #The Goal
 
