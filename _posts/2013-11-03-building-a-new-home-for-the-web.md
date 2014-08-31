@@ -27,7 +27,7 @@ The nice thing with Octopress is that it comes with a default theme, similar to 
 
 How does the typical workflow look like?  Very simple!
     rake new_post["New Post Name"]
-    vim /path/to/new/post.md (to write the article)
+    vim /path/to/new/new_post_name.md
     rake generate
 
 And Octopress takes care of converting the markdown file to HTML, and updating the blog and archives with the new article.  
