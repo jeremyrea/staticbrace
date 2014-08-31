@@ -17,14 +17,6 @@ I currently use it as a NAS, a web server for Static Brace as well as a DLNA med
 
 For anyone else looking for a simple and cheap setup for hobby projects and require some sort of system to serve as a light server, I would definitely recommend the BeagleBone Black.  There are drawbacks which required workarounds however, but it will be detailed at a later time when I'll also explain the choice of software I have running on the server.
 
-<!---
-//Use for next post
-
-After setting on the BeagleBlack, I needed an operating system.  The board comes pre-loaded with the Ångström Linux distribution but I had already decided that I would replace it with Debian because of my familiarity with it, its legendary stability and exhaustive software repository.
-
-The hardest part of the initial setup was getting the Debian running on an ARM based system.  Thankfully, the elinux wiki had [well detailed instructions](http://elinux.org/BeagleBoardDebian).
--->
-
 - - -
 <sup>1</sup> It remains obvious that this small budget-focused server can't compete with real server grade hardware.
 
