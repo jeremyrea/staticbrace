@@ -2,6 +2,8 @@
 layout: post
 title: "Notch leaves Mojang following Microsoft Acquisition"
 date: 2014-09-15 23:10
+author: Jeremy Rea
+published: true
 comments: false
 categories: 
 external-url: http://notch.net/2014/09/im-leaving-mojang/
