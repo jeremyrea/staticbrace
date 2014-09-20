@@ -24,4 +24,4 @@ The theme used is called [slimpress](https://github.com/jeremyrea/slimpress), in
 
 ##Follow
 
-You can follow staticbrace.com using the [feed](https://www.staticbrace.com/atom.xml).
+You can follow staticbrace.com using the [feed](http://www.staticbrace.com/atom.xml).
