@@ -2,7 +2,7 @@
 layout: post
 title: "What's on That Server?"
 date: 2014-08-30 23:30
-comments: true
+comments: false
 categories: 
 
 ---
