@@ -22,7 +22,7 @@ I'll update this post in the future if ever I successfully expand my available s
 ##Web server
 In the instance you've already landed on a 404 page of this site, you'll have surely already noticed that Static Brace is powered by Nginx.
 
-I had heard of Apache in the past and was aware that it was a battle teste HTTP server, dating back to 1995.  I however did some research before setting things up to make sure it was the right choice.  I eventually landed on Nginx, a newer piece of software released in 2002, which has received much praise.  Multiple accounts state that it is faster at serving static files, making my decision clear.
+I had heard of Apache in the past and was aware that it was a battle tested HTTP server, dating back to 1995.  I however did some research before setting things up to make sure it was the right choice.  I eventually landed on Nginx, a newer piece of software released in 2002, which has received much praise.  Multiple accounts state that it is faster at serving static files, making my decision clear.
 
 If setting-up your own website is something you'd like to do, I have to strongly recommend the [Web Served](http://arstechnica.com/series/web-served/) article series on Ars Technica.  It is incredibly detailed and will walk you through the various steps of installing and configuring the different building blocks of a web server.
 
