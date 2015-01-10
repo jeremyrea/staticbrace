@@ -13,7 +13,7 @@ Static Brace is a site written and maintained by Jeremy Rea.  A Computer Science
 
 ##Contact
 
-Email   <mailto:rea.jeremy@gmail.com>  
+Email   <mailto:jeremy.rea@staticbrace.com>  
 Twitter [@jrmrea](https://www.twitter.com/jrmrea)
 
 #About staticbrace.com
